@@ -39,7 +39,7 @@ ABC Institute of Tech,AI,Bangalore,150000,75,8.5,4 years,NAAC A+,90%
 XYZ Commerce College,Commerce,Delhi,50000,65,7.8,3 years,NAAC B,70%
 ...
 
-git clone https://github.com/your-username/college-recommender-system.git
+git clone https://github.com/Anusreemanoj1/college-recommender-system.git
 cd college-recommender-system
 
 python -m venv venv
